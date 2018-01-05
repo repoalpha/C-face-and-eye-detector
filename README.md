@@ -96,7 +96,9 @@ Step 26. cmake .
 
 step 27. make
 
-Its all too easy. No fancy IDE, no project folder tree’s. Sure I could have condensed it by putting links straight into GitHub, but this way you can ‘twist the plot’ to suit your arrangement.
+## Comclusions
+
+Its all too easy. No fancy IDE, no project folder tree. Sure I could have condensed it by putting links straight from GitHub, but this way you can ‘twist the plot’ to suit your arrangement. The source files are included for the raspberry pi in this repository.
 
 So you should on a Mac, or if you have a usb camera on your raspberry pi, see your face in a circle with your eye’s circled as per the images at  https://docs.opencv.org/3.3.1/db/d28/tutorial_cascade_classifier.html
 
