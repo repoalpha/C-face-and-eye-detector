@@ -104,5 +104,5 @@ So you should on a Mac, or if you have a usb camera on your raspberry pi, see yo
 
 The good thing is that it works well on the raspberry pi as it does on Mac OSX which unlike machine learning solutions which will be exceptionally slow on the raspberry pi (usually). But of course haar cascades just won’t have the accuracy of a well trained machine learning classifier.
 
-FYI: Windows will require more work as the paths are different for a start to the hard cascade xml files. You may encounter other issues as the commands here are for OSX or Debian like linux.
+FYI: Windows will require more work as the paths are different for a start to the haar cascade xml files. You may encounter other issues as the commands here are for OSX or Debian like linux.
 
