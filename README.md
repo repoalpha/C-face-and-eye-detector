@@ -98,7 +98,7 @@ step 27. make
 
 Its all too easy. No fancy IDE, no project folder tree’s. Sure I could have condensed it by putting links straight into GitHub, but this way you can ‘twist the plot’ to suit your arrangement.
 
-So you should on a Mac, or if you have a usb camera on your raspberry pi, see your face in circle with your eye’s circled as per the images at  https://docs.opencv.org/3.3.1/db/d28/tutorial_cascade_classifier.html
+So you should on a Mac, or if you have a usb camera on your raspberry pi, see your face in a circle with your eye’s circled as per the images at  https://docs.opencv.org/3.3.1/db/d28/tutorial_cascade_classifier.html
 
 The good thing is that it works well on the raspberry pi as it does on Mac OSX which unlike machine learning solutions which will be exceptionally slow on the raspberry pi (usually). But of course haar cascades just won’t have the accuracy of a well trained machine learning classifier.
 
