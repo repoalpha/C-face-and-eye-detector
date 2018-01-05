@@ -3,7 +3,7 @@
 This tutorial is for the person who hasn’t a clue about C++ and wants to get something as sophisticated as face recognition working. 
 On the surface it would seem adifficult task given we are involving OPENCV, an open source library, as well the C++ application which must be compiled. But is it that hard? lets see, follow on.
 
-## Requirements and dependencies
+## Requirements and Dependencies
 
 Firstly you will need to install OPENCV on Mac OSX, Ubuntu or your Raspberry Pi or even Windows. Installing OPENCV can be a big ask for a novice. There are many great tutorials online for installation of OPENCV like…
 
