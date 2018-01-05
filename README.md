@@ -5,9 +5,7 @@ On the surface it would seem adifficult task given we are involving OPENCV, an o
 
 ## Requirements and dependencies
 
-Firstly you will need to install OPENCV on Mac OSX, Ubuntu or your Raspberry Pi or even Windows. Installing OPENCV can be a big ask for a novice.
-
-There are many great tutorials online for installation of OPENCV like…
+Firstly you will need to install OPENCV on Mac OSX, Ubuntu or your Raspberry Pi or even Windows. Installing OPENCV can be a big ask for a novice. There are many great tutorials online for installation of OPENCV like…
 
 here for raspberry pi https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 
@@ -22,11 +20,9 @@ A note installing OPENCV on the Raspberry pi, it can take 8 hours to install! It
 Once you have OPENCV installed it should have created an ‘opencv’ folder in your home directory. For example on raspbian its /home/pi/opencv or mac OSX /User/yourname/opencv
 
 Of course if you used a virtual environment you will need to locate the opencv path first. 
-
 Some facts first about my set-up. I have OPENCV installed on Mac OSX, Raspberry pi ‘raspian jessie, and Ubuntu 16.04. All versions work with python 3.6 and in the case of raspbian, python 3.4.
 
 But this tutorial is about C++. It does not matter with OPENCV as to either language Python or C++, as it has two code interfaces, primarily though C++ with a Python wrapper for using Python but natively its really a C++ application.
-
 You should have Cmake installed, it is probably installed on OSX at least it was on mine, it certainly is on Raspbian and also Ubuntu. If not please install Cmake. I will use Cmake as the terminal not GUI.
 
 What if you have OPENCV already installed but don’t know the version? At the terminal prompt type:
