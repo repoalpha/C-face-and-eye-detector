@@ -1,8 +1,10 @@
 # C++ Face and eye Detector
 
 This tutorial is for the person who hasn’t a clue about C++ and wants to get something as sophisticated as face recognition working. 
+On the surface it would seem not an easy task given we are involving OPENCV, an open source library, as well C++. 
+But is it that hard? lets see, follow on.
 
-On the surface it would seem not an easy task given we are involving OPENCV, an open source library, as well C++. But is it that hard? lets see, follow on.
+## Requirements and dependencies
 
 Firstly you will need to install OPENCV on Mac OSX, Ubuntu or your Raspberry Pi or even Windows. Installing OPENCV can be a big ask for a novice.
 
@@ -33,6 +35,8 @@ What if you have OPENCV already installed but don’t know the version? At the t
 pkg-config --modversion opencv
 
 So assuming you have OPENCV installed e.g.. OPENCV 3.3.1 for example, (though this worked on 3.2 as well or earlier versions) we are ready to start.
+
+## Instructions
 
 I will walk through the tutorial  so you can get a better feel what came first rather than blindly copy and paste a few links.
 
