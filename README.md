@@ -63,7 +63,7 @@ Step 13. Next we must make the CmakeLists.txt file, to do that, in the web brows
 
 Step 14. go down to ‘Create a Make file’ and copy the box.
 
-Step 15. (inside your face directory type) nano CMakeLists.txt
+Step 15. (inside your face directory type) type: nano CMakeLists.txt
 
 Step 16. copy the code.
 
