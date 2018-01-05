@@ -1,8 +1,7 @@
 # C++ Face and eye Detector
 
 This tutorial is for the person who hasn’t a clue about C++ and wants to get something as sophisticated as face recognition working. 
-On the surface it would seem not an easy task given we are involving OPENCV, an open source library, as well C++. 
-But is it that hard? lets see, follow on.
+On the surface it would seem adifficult task given we are involving OPENCV, an open source library, as well C++ application which must be compiled. But is it that hard? lets see, follow on.
 
 ## Requirements and dependencies
 
