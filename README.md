@@ -96,7 +96,7 @@ Step 26. cmake .
 
 step 27. make
 
-## Comclusions
+## Conclusions
 
 Its all too easy. No fancy IDE, no project folder tree. Sure I could have condensed it by putting links straight from GitHub, but this way you can ‘twist the plot’ to suit your arrangement. The source files are included for the raspberry pi in this repository.
 
