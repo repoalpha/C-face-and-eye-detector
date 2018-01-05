@@ -1,1 +1,1 @@
-# C-face-and-eye-detector
+# C++ Face and eye Detector
