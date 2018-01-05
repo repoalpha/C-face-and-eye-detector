@@ -1,0 +1,3 @@
+/home/pi/opencv/face/CMakeFiles/edit_cache.dir
+/home/pi/opencv/face/CMakeFiles/rebuild_cache.dir
+/home/pi/opencv/face/CMakeFiles/face.dir
